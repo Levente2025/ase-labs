@@ -1,5 +1,7 @@
 # Estimating Text Similarity by Shingling
 
+![example workflow](https://github.com/Levente2025/ase-labs/actions/workflows/ci.yml/badge.svg?branch=practice-2)
+
 **Authors:** Ármin Zavada, Kristóf Marussy
 
 **Based on work of:** Gábor Bergmann, Gábor Szárnyas
